@@ -1,0 +1,1049 @@
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer @ sec=0, usec=167955
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 @ sec=0, usec=168678
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 @ sec=0, usec=168876
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 @ sec=0, usec=169116
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer thread @ sec=0, usec=169300
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 1 @ sec=0, usec=169672
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 2 @ sec=0, usec=169952
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 3 @ sec=0, usec=170245
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 4 @ sec=0, usec=170512
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 5 @ sec=0, usec=170797
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 6 @ sec=0, usec=171053
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 7 @ sec=0, usec=171336
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 8 @ sec=0, usec=171585
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 9 @ sec=0, usec=171867
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 10 @ sec=0, usec=172256
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 1 @ sec=0, usec=172425
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 11 @ sec=0, usec=172619
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 12 @ sec=0, usec=172897
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 13 @ sec=0, usec=173160
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 14 @ sec=0, usec=173435
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 15 @ sec=0, usec=173717
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 16 @ sec=0, usec=174030
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 17 @ sec=0, usec=174321
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 18 @ sec=0, usec=174611
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 19 @ sec=0, usec=174873
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 20 @ sec=0, usec=175132
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 2 @ sec=0, usec=175195
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 21 @ sec=0, usec=175401
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 22 @ sec=0, usec=175679
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 23 @ sec=0, usec=175972
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 24 @ sec=0, usec=176235
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 25 @ sec=0, usec=176534
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 1 @ sec=0, usec=176657
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 26 @ sec=0, usec=176843
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 27 @ sec=0, usec=177105
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 28 @ sec=0, usec=177383
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 29 @ sec=0, usec=177641
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 30 @ sec=0, usec=177893
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 3 @ sec=0, usec=177943
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 31 @ sec=0, usec=178155
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 32 @ sec=0, usec=178408
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 33 @ sec=0, usec=178650
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 34 @ sec=0, usec=178903
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 35 @ sec=0, usec=179163
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 36 @ sec=0, usec=179486
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 37 @ sec=0, usec=179780
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 38 @ sec=0, usec=180062
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 39 @ sec=0, usec=180338
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 40 @ sec=0, usec=180626
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 4 @ sec=0, usec=180751
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 41 @ sec=0, usec=180990
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 42 @ sec=0, usec=181276
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 43 @ sec=0, usec=181579
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 44 @ sec=0, usec=181898
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 45 @ sec=0, usec=182204
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 46 @ sec=0, usec=182518
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 47 @ sec=0, usec=182838
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 48 @ sec=0, usec=183180
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 49 @ sec=0, usec=183484
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 50 @ sec=0, usec=183784
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 2 @ sec=0, usec=183929
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 1 @ sec=0, usec=183932
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 5 @ sec=0, usec=183938
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 51 @ sec=0, usec=184092
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 52 @ sec=0, usec=184346
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 53 @ sec=0, usec=184613
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 54 @ sec=0, usec=184940
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 55 @ sec=0, usec=185264
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 56 @ sec=0, usec=185588
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 57 @ sec=0, usec=185925
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 58 @ sec=0, usec=186231
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 59 @ sec=0, usec=186500
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 60 @ sec=0, usec=186790
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 6 @ sec=0, usec=186869
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 61 @ sec=0, usec=187077
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 62 @ sec=0, usec=187350
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 63 @ sec=0, usec=187636
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 64 @ sec=0, usec=187913
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 65 @ sec=0, usec=188181
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 66 @ sec=0, usec=188439
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 67 @ sec=0, usec=188702
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 68 @ sec=0, usec=188999
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 69 @ sec=0, usec=189305
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 70 @ sec=0, usec=189604
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 7 @ sec=0, usec=189706
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 71 @ sec=0, usec=189921
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 72 @ sec=0, usec=190200
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 73 @ sec=0, usec=190510
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 74 @ sec=0, usec=190790
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 75 @ sec=0, usec=191034
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 3 @ sec=0, usec=191115
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 76 @ sec=0, usec=191326
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 77 @ sec=0, usec=191591
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 78 @ sec=0, usec=191863
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 79 @ sec=0, usec=192144
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 80 @ sec=0, usec=192411
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 8 @ sec=0, usec=192472
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 81 @ sec=0, usec=192691
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 82 @ sec=0, usec=192972
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 83 @ sec=0, usec=193234
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 84 @ sec=0, usec=193495
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 85 @ sec=0, usec=193757
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 86 @ sec=0, usec=194060
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 87 @ sec=0, usec=194377
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 88 @ sec=0, usec=194710
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 89 @ sec=0, usec=195019
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 90 @ sec=0, usec=195335
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 9 @ sec=0, usec=195434
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 91 @ sec=0, usec=195639
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 92 @ sec=0, usec=195910
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 93 @ sec=0, usec=196169
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 94 @ sec=0, usec=196433
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 95 @ sec=0, usec=196698
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 96 @ sec=0, usec=196970
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 97 @ sec=0, usec=197241
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 98 @ sec=0, usec=197613
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 99 @ sec=0, usec=198004
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 100 @ sec=0, usec=198272
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 4 @ sec=0, usec=198402
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 2 @ sec=0, usec=198402
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 10 @ sec=0, usec=198402
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 101 @ sec=0, usec=198600
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 102 @ sec=0, usec=198870
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 103 @ sec=0, usec=199160
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 104 @ sec=0, usec=199463
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 105 @ sec=0, usec=199760
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 106 @ sec=0, usec=200053
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 107 @ sec=0, usec=200352
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 108 @ sec=0, usec=200671
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 109 @ sec=0, usec=200971
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 110 @ sec=0, usec=201245
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 11 @ sec=0, usec=201305
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 111 @ sec=0, usec=201503
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 112 @ sec=0, usec=201746
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 113 @ sec=0, usec=201992
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 114 @ sec=0, usec=202251
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 115 @ sec=0, usec=202497
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 116 @ sec=0, usec=202742
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 117 @ sec=0, usec=202990
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 118 @ sec=0, usec=203247
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 119 @ sec=0, usec=203517
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 120 @ sec=0, usec=203804
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 12 @ sec=0, usec=203890
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 121 @ sec=0, usec=204073
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 122 @ sec=0, usec=204333
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 123 @ sec=0, usec=204592
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 124 @ sec=0, usec=204847
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 125 @ sec=0, usec=205111
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 5 @ sec=0, usec=205161
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 126 @ sec=0, usec=205374
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 127 @ sec=0, usec=205642
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 128 @ sec=0, usec=205953
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 129 @ sec=0, usec=206258
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 130 @ sec=0, usec=206541
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 13 @ sec=0, usec=206626
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 131 @ sec=0, usec=206824
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 132 @ sec=0, usec=207085
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 133 @ sec=0, usec=207335
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 134 @ sec=0, usec=207575
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 135 @ sec=0, usec=207839
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 136 @ sec=0, usec=208091
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 137 @ sec=0, usec=208340
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 138 @ sec=0, usec=208612
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 139 @ sec=0, usec=208880
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 140 @ sec=0, usec=209171
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 14 @ sec=0, usec=209258
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 141 @ sec=0, usec=209477
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 142 @ sec=0, usec=209774
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 143 @ sec=0, usec=210079
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 144 @ sec=0, usec=210377
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 145 @ sec=0, usec=210745
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 146 @ sec=0, usec=211028
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 147 @ sec=0, usec=211338
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 148 @ sec=0, usec=211686
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 149 @ sec=0, usec=211960
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 150 @ sec=0, usec=212228
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 3 @ sec=0, usec=212325
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 15 @ sec=0, usec=212325
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 6 @ sec=0, usec=212329
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 151 @ sec=0, usec=212517
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 152 @ sec=0, usec=212810
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 153 @ sec=0, usec=213130
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 154 @ sec=0, usec=213411
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 155 @ sec=0, usec=213724
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 156 @ sec=0, usec=214018
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 157 @ sec=0, usec=214279
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 158 @ sec=0, usec=214537
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 159 @ sec=0, usec=214798
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 160 @ sec=0, usec=215063
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 16 @ sec=0, usec=215173
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 161 @ sec=0, usec=215356
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 162 @ sec=0, usec=215609
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 163 @ sec=0, usec=215853
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 164 @ sec=0, usec=216110
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 165 @ sec=0, usec=216388
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 166 @ sec=0, usec=216641
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 167 @ sec=0, usec=216896
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 168 @ sec=0, usec=217158
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 169 @ sec=0, usec=217419
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 170 @ sec=0, usec=217761
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 17 @ sec=0, usec=217884
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 171 @ sec=0, usec=218053
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 172 @ sec=0, usec=218294
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 173 @ sec=0, usec=218561
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 174 @ sec=0, usec=218839
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 175 @ sec=0, usec=219103
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 7 @ sec=0, usec=219151
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 176 @ sec=0, usec=219355
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 177 @ sec=0, usec=219633
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 178 @ sec=0, usec=219900
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 179 @ sec=0, usec=220159
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 180 @ sec=0, usec=220420
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 18 @ sec=0, usec=220475
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 181 @ sec=0, usec=220675
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 182 @ sec=0, usec=220939
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 183 @ sec=0, usec=221190
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 184 @ sec=0, usec=221431
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 185 @ sec=0, usec=221683
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 186 @ sec=0, usec=221935
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 187 @ sec=0, usec=222221
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 188 @ sec=0, usec=222512
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 189 @ sec=0, usec=222787
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 190 @ sec=0, usec=223057
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 19 @ sec=0, usec=223111
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 191 @ sec=0, usec=223314
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 192 @ sec=0, usec=223564
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 193 @ sec=0, usec=223806
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 194 @ sec=0, usec=224047
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 195 @ sec=0, usec=224287
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 196 @ sec=0, usec=224525
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 197 @ sec=0, usec=224768
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 198 @ sec=0, usec=225029
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 199 @ sec=0, usec=225282
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 200 @ sec=0, usec=225523
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 20 @ sec=0, usec=225570
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 4 @ sec=0, usec=225581
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 8 @ sec=0, usec=225574
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 201 @ sec=0, usec=225780
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 202 @ sec=0, usec=226023
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 203 @ sec=0, usec=226273
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 204 @ sec=0, usec=226517
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 205 @ sec=0, usec=226760
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 206 @ sec=0, usec=226999
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 207 @ sec=0, usec=227252
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 208 @ sec=0, usec=227499
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 209 @ sec=0, usec=227747
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 210 @ sec=0, usec=228007
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 21 @ sec=0, usec=228054
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 211 @ sec=0, usec=228275
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 212 @ sec=0, usec=228553
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 213 @ sec=0, usec=228819
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 214 @ sec=0, usec=229088
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 215 @ sec=0, usec=229376
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 216 @ sec=0, usec=229667
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 217 @ sec=0, usec=229979
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 218 @ sec=0, usec=230267
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 219 @ sec=0, usec=230558
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 220 @ sec=0, usec=230840
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 22 @ sec=0, usec=231045
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 221 @ sec=0, usec=231254
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 222 @ sec=0, usec=231539
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 223 @ sec=0, usec=231836
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 224 @ sec=0, usec=232114
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 225 @ sec=0, usec=232411
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 9 @ sec=0, usec=232467
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 226 @ sec=0, usec=232677
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 227 @ sec=0, usec=232994
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 228 @ sec=0, usec=233429
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 229 @ sec=0, usec=233693
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 230 @ sec=0, usec=233958
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 23 @ sec=0, usec=234031
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 231 @ sec=0, usec=234240
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 232 @ sec=0, usec=234513
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 233 @ sec=0, usec=234782
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 234 @ sec=0, usec=235094
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 235 @ sec=0, usec=235409
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 236 @ sec=0, usec=235741
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 237 @ sec=0, usec=236051
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 238 @ sec=0, usec=236369
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 239 @ sec=0, usec=236630
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 240 @ sec=0, usec=236932
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 24 @ sec=0, usec=237029
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 241 @ sec=0, usec=237237
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 242 @ sec=0, usec=237492
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 243 @ sec=0, usec=237747
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 244 @ sec=0, usec=238009
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 245 @ sec=0, usec=238314
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 246 @ sec=0, usec=238589
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 247 @ sec=0, usec=238857
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 248 @ sec=0, usec=239135
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 249 @ sec=0, usec=239399
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 250 @ sec=0, usec=239652
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 25 @ sec=0, usec=239708
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 10 @ sec=0, usec=239710
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 5 @ sec=0, usec=239721
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 251 @ sec=0, usec=239917
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 252 @ sec=0, usec=240164
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 253 @ sec=0, usec=240409
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 254 @ sec=0, usec=240663
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 255 @ sec=0, usec=240954
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 256 @ sec=0, usec=241237
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 257 @ sec=0, usec=241487
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 258 @ sec=0, usec=241748
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 259 @ sec=0, usec=242027
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 260 @ sec=0, usec=242307
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 26 @ sec=0, usec=242379
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 261 @ sec=0, usec=242579
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 262 @ sec=0, usec=242837
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 263 @ sec=0, usec=243091
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 264 @ sec=0, usec=243343
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 265 @ sec=0, usec=243591
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 266 @ sec=0, usec=243842
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 267 @ sec=0, usec=244109
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 268 @ sec=0, usec=244377
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 269 @ sec=0, usec=244653
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 270 @ sec=0, usec=244970
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 27 @ sec=0, usec=245086
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 271 @ sec=0, usec=245271
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 272 @ sec=0, usec=245533
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 273 @ sec=0, usec=325056
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 274 @ sec=0, usec=325352
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 275 @ sec=0, usec=325619
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 11 @ sec=0, usec=325684
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 276 @ sec=0, usec=325888
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 277 @ sec=0, usec=326174
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 278 @ sec=0, usec=326463
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 279 @ sec=0, usec=326775
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 280 @ sec=0, usec=327052
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 28 @ sec=0, usec=327125
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 281 @ sec=0, usec=327313
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 282 @ sec=0, usec=327550
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 283 @ sec=0, usec=327791
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 284 @ sec=0, usec=328041
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 285 @ sec=0, usec=328293
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 286 @ sec=0, usec=328554
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 287 @ sec=0, usec=328827
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 288 @ sec=0, usec=329101
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 289 @ sec=0, usec=329429
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 290 @ sec=0, usec=329693
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 29 @ sec=0, usec=329740
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 291 @ sec=0, usec=329943
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 292 @ sec=0, usec=330197
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 293 @ sec=0, usec=330446
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 294 @ sec=0, usec=330714
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 295 @ sec=0, usec=330978
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 296 @ sec=0, usec=331238
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 297 @ sec=0, usec=331492
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 298 @ sec=0, usec=331741
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 299 @ sec=0, usec=331978
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 300 @ sec=0, usec=332214
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 30 @ sec=0, usec=332254
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 12 @ sec=0, usec=332255
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 6 @ sec=0, usec=332261
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 301 @ sec=0, usec=332463
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 302 @ sec=0, usec=332709
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 303 @ sec=0, usec=332970
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 304 @ sec=0, usec=333220
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 305 @ sec=0, usec=333475
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 306 @ sec=0, usec=333737
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 307 @ sec=0, usec=334001
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 308 @ sec=0, usec=334239
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 309 @ sec=0, usec=334500
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 310 @ sec=0, usec=334746
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 31 @ sec=0, usec=334792
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 311 @ sec=0, usec=334996
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 312 @ sec=0, usec=335228
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 313 @ sec=0, usec=335465
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 314 @ sec=0, usec=335713
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 315 @ sec=0, usec=335957
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 316 @ sec=0, usec=336189
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 317 @ sec=0, usec=336420
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 318 @ sec=0, usec=336651
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 319 @ sec=0, usec=336880
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 320 @ sec=0, usec=337110
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 32 @ sec=0, usec=337140
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 321 @ sec=0, usec=337342
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 322 @ sec=0, usec=337575
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 323 @ sec=0, usec=337806
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 324 @ sec=0, usec=338043
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 325 @ sec=0, usec=338300
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 13 @ sec=0, usec=338385
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 326 @ sec=0, usec=338594
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 327 @ sec=0, usec=338875
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 328 @ sec=0, usec=339191
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 329 @ sec=0, usec=339490
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 330 @ sec=0, usec=339786
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 33 @ sec=0, usec=339859
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 331 @ sec=0, usec=340056
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 332 @ sec=0, usec=340305
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 333 @ sec=0, usec=340569
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 334 @ sec=0, usec=340832
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 335 @ sec=0, usec=341076
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 336 @ sec=0, usec=341334
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 337 @ sec=0, usec=341604
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 338 @ sec=0, usec=341860
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 339 @ sec=0, usec=342110
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 340 @ sec=0, usec=342367
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 34 @ sec=0, usec=342427
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 341 @ sec=0, usec=342637
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 342 @ sec=0, usec=342900
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 343 @ sec=0, usec=343173
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 344 @ sec=0, usec=343436
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 345 @ sec=0, usec=343695
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 346 @ sec=0, usec=343942
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 347 @ sec=0, usec=344186
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 348 @ sec=0, usec=344429
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 349 @ sec=0, usec=344678
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 350 @ sec=0, usec=344938
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 14 @ sec=0, usec=345002
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 35 @ sec=0, usec=345004
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 7 @ sec=0, usec=345009
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 351 @ sec=0, usec=345209
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 352 @ sec=0, usec=345535
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 353 @ sec=0, usec=345882
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 354 @ sec=0, usec=346137
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 355 @ sec=0, usec=346394
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 356 @ sec=0, usec=346655
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 357 @ sec=0, usec=346904
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 358 @ sec=0, usec=347170
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 359 @ sec=0, usec=347429
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 360 @ sec=0, usec=347689
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 36 @ sec=0, usec=347740
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 361 @ sec=0, usec=347941
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 362 @ sec=0, usec=348177
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 363 @ sec=0, usec=348416
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 364 @ sec=0, usec=348673
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 365 @ sec=0, usec=348939
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 366 @ sec=0, usec=349197
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 367 @ sec=0, usec=349456
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 368 @ sec=0, usec=349721
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 369 @ sec=0, usec=349971
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 370 @ sec=0, usec=350220
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 37 @ sec=0, usec=350307
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 371 @ sec=0, usec=350496
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 372 @ sec=0, usec=350753
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 373 @ sec=0, usec=351001
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 374 @ sec=0, usec=351247
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 375 @ sec=0, usec=351486
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 15 @ sec=0, usec=351519
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 376 @ sec=0, usec=351719
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 377 @ sec=0, usec=351949
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 378 @ sec=0, usec=352179
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 379 @ sec=0, usec=352411
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 380 @ sec=0, usec=352641
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 38 @ sec=0, usec=352670
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 381 @ sec=0, usec=352878
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 382 @ sec=0, usec=353117
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 383 @ sec=0, usec=353345
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 384 @ sec=0, usec=353579
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 385 @ sec=0, usec=353811
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 386 @ sec=0, usec=354041
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 387 @ sec=0, usec=354270
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 388 @ sec=0, usec=354499
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 389 @ sec=0, usec=354733
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 390 @ sec=0, usec=355002
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 39 @ sec=0, usec=355114
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 391 @ sec=0, usec=355331
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 392 @ sec=0, usec=355602
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 393 @ sec=0, usec=355891
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 394 @ sec=0, usec=356182
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 395 @ sec=0, usec=356455
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 396 @ sec=0, usec=356715
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 397 @ sec=0, usec=356962
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 398 @ sec=0, usec=357230
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 399 @ sec=0, usec=357489
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 400 @ sec=0, usec=357736
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 8 @ sec=0, usec=357820
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 16 @ sec=0, usec=357803
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 40 @ sec=0, usec=357803
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 401 @ sec=0, usec=358017
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 402 @ sec=0, usec=358272
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 403 @ sec=0, usec=358521
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 404 @ sec=0, usec=358769
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 405 @ sec=0, usec=359037
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 406 @ sec=0, usec=359310
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 407 @ sec=0, usec=359571
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 408 @ sec=0, usec=359831
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 409 @ sec=0, usec=360091
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 410 @ sec=0, usec=360338
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 41 @ sec=0, usec=360396
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 411 @ sec=0, usec=360599
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 412 @ sec=0, usec=360841
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 413 @ sec=0, usec=361084
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 414 @ sec=0, usec=361335
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 415 @ sec=0, usec=361593
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 416 @ sec=0, usec=361885
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 417 @ sec=0, usec=362257
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 418 @ sec=0, usec=362653
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 419 @ sec=0, usec=362896
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 420 @ sec=0, usec=363153
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 42 @ sec=0, usec=363211
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 421 @ sec=0, usec=363419
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 422 @ sec=0, usec=363672
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 423 @ sec=0, usec=363936
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 424 @ sec=0, usec=364198
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 425 @ sec=0, usec=364458
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 17 @ sec=0, usec=364507
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 426 @ sec=0, usec=364709
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 427 @ sec=0, usec=364950
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 428 @ sec=0, usec=365188
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 429 @ sec=0, usec=365429
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 430 @ sec=0, usec=365665
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 43 @ sec=0, usec=365718
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 431 @ sec=0, usec=365931
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 432 @ sec=0, usec=366204
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 433 @ sec=0, usec=366470
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 434 @ sec=0, usec=366747
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 435 @ sec=0, usec=367018
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 436 @ sec=0, usec=367267
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 437 @ sec=0, usec=367532
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 438 @ sec=0, usec=367779
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 439 @ sec=0, usec=368016
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 440 @ sec=0, usec=368255
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 44 @ sec=0, usec=368286
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 441 @ sec=0, usec=368487
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 442 @ sec=0, usec=368717
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 443 @ sec=0, usec=368956
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 444 @ sec=0, usec=369190
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 445 @ sec=0, usec=369419
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 446 @ sec=0, usec=369652
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 447 @ sec=0, usec=369881
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 448 @ sec=0, usec=370116
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 449 @ sec=0, usec=370344
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 450 @ sec=0, usec=370575
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 45 @ sec=0, usec=370604
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 18 @ sec=0, usec=370610
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 9 @ sec=0, usec=370616
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 451 @ sec=0, usec=370813
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 452 @ sec=0, usec=371044
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 453 @ sec=0, usec=371275
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 454 @ sec=0, usec=371519
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 455 @ sec=0, usec=371781
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 456 @ sec=0, usec=372079
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 457 @ sec=0, usec=372343
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 458 @ sec=0, usec=372623
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 459 @ sec=0, usec=372923
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 460 @ sec=0, usec=373206
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 46 @ sec=0, usec=373287
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 461 @ sec=0, usec=373480
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 462 @ sec=0, usec=373737
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 463 @ sec=0, usec=373994
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 464 @ sec=0, usec=374251
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 465 @ sec=0, usec=374503
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 466 @ sec=0, usec=374777
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 467 @ sec=0, usec=375030
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 468 @ sec=0, usec=375285
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 469 @ sec=0, usec=375540
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 470 @ sec=0, usec=375800
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 47 @ sec=0, usec=375878
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 471 @ sec=0, usec=376081
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 472 @ sec=0, usec=376363
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 473 @ sec=0, usec=376655
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 474 @ sec=0, usec=376936
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 475 @ sec=0, usec=377188
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 19 @ sec=0, usec=377238
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 476 @ sec=0, usec=377448
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 477 @ sec=0, usec=377689
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 478 @ sec=0, usec=377931
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 479 @ sec=0, usec=378181
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 480 @ sec=0, usec=378437
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 48 @ sec=0, usec=378490
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 481 @ sec=0, usec=378745
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 482 @ sec=0, usec=379058
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 483 @ sec=0, usec=379337
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 484 @ sec=0, usec=379651
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 485 @ sec=0, usec=379906
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 486 @ sec=0, usec=380159
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 487 @ sec=0, usec=380422
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 488 @ sec=0, usec=380691
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 489 @ sec=0, usec=380949
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 490 @ sec=0, usec=381209
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 49 @ sec=0, usec=381272
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 491 @ sec=0, usec=381467
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 492 @ sec=0, usec=381718
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 493 @ sec=0, usec=381957
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 494 @ sec=0, usec=382203
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 495 @ sec=0, usec=382446
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 496 @ sec=0, usec=382728
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 497 @ sec=0, usec=382999
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 498 @ sec=0, usec=383254
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 499 @ sec=0, usec=383520
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 500 @ sec=0, usec=383789
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 50 @ sec=0, usec=383861
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 10 @ sec=0, usec=383869
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 20 @ sec=0, usec=383869
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 501 @ sec=0, usec=384062
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 502 @ sec=0, usec=384297
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 503 @ sec=0, usec=384546
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 504 @ sec=0, usec=384776
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 505 @ sec=0, usec=385002
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 506 @ sec=0, usec=385228
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 507 @ sec=0, usec=385452
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 508 @ sec=0, usec=385676
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 509 @ sec=0, usec=385900
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 510 @ sec=0, usec=386124
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 51 @ sec=0, usec=386151
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 511 @ sec=0, usec=386351
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 512 @ sec=0, usec=462698
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 513 @ sec=0, usec=462974
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 514 @ sec=0, usec=463232
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 515 @ sec=0, usec=463483
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 516 @ sec=0, usec=463738
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 517 @ sec=0, usec=463998
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 518 @ sec=0, usec=464257
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 519 @ sec=0, usec=464519
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 520 @ sec=0, usec=464788
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 52 @ sec=0, usec=464854
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 521 @ sec=0, usec=465053
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 522 @ sec=0, usec=465301
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 523 @ sec=0, usec=465546
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 524 @ sec=0, usec=465819
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 525 @ sec=0, usec=466082
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 21 @ sec=0, usec=466143
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 526 @ sec=0, usec=466353
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 527 @ sec=0, usec=466605
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 528 @ sec=0, usec=466874
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 529 @ sec=0, usec=467149
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 530 @ sec=0, usec=467443
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 53 @ sec=0, usec=467533
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 531 @ sec=0, usec=467705
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 532 @ sec=0, usec=467953
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 533 @ sec=0, usec=468189
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 534 @ sec=0, usec=468419
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 535 @ sec=0, usec=468646
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 536 @ sec=0, usec=468881
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 537 @ sec=0, usec=469108
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 538 @ sec=0, usec=469335
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 539 @ sec=0, usec=469561
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 540 @ sec=0, usec=469790
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 54 @ sec=0, usec=469829
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 541 @ sec=0, usec=470037
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 542 @ sec=0, usec=470274
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 543 @ sec=0, usec=470500
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 544 @ sec=0, usec=470728
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 545 @ sec=0, usec=470955
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 546 @ sec=0, usec=471183
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 547 @ sec=0, usec=471410
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 548 @ sec=0, usec=471656
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 549 @ sec=0, usec=471917
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 550 @ sec=0, usec=472188
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 22 @ sec=0, usec=472275
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 55 @ sec=0, usec=472275
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 11 @ sec=0, usec=472277
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 551 @ sec=0, usec=472474
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 552 @ sec=0, usec=472757
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 553 @ sec=0, usec=473028
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 554 @ sec=0, usec=473278
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 555 @ sec=0, usec=473542
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 556 @ sec=0, usec=473816
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 557 @ sec=0, usec=474067
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 558 @ sec=0, usec=474316
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 559 @ sec=0, usec=474573
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 560 @ sec=0, usec=474830
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 56 @ sec=0, usec=474887
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 561 @ sec=0, usec=475093
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 562 @ sec=0, usec=475344
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 563 @ sec=0, usec=475589
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 564 @ sec=0, usec=475843
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 565 @ sec=0, usec=476099
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 566 @ sec=0, usec=476349
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 567 @ sec=0, usec=476601
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 568 @ sec=0, usec=476870
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 569 @ sec=0, usec=477130
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 570 @ sec=0, usec=477386
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 57 @ sec=0, usec=477437
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 571 @ sec=0, usec=477642
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 572 @ sec=0, usec=477890
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 573 @ sec=0, usec=478125
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 574 @ sec=0, usec=478365
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 575 @ sec=0, usec=478628
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 23 @ sec=0, usec=478692
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 576 @ sec=0, usec=478906
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 577 @ sec=0, usec=479183
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 578 @ sec=0, usec=479524
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 579 @ sec=0, usec=479819
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 580 @ sec=0, usec=480068
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 58 @ sec=0, usec=480123
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 581 @ sec=0, usec=480330
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 582 @ sec=0, usec=480587
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 583 @ sec=0, usec=480832
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 584 @ sec=0, usec=481096
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 585 @ sec=0, usec=481339
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 586 @ sec=0, usec=481593
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 587 @ sec=0, usec=481855
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 588 @ sec=0, usec=482095
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 589 @ sec=0, usec=482343
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 590 @ sec=0, usec=482598
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 59 @ sec=0, usec=482653
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 591 @ sec=0, usec=482849
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 592 @ sec=0, usec=483099
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 593 @ sec=0, usec=483356
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 594 @ sec=0, usec=483603
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 595 @ sec=0, usec=483841
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 596 @ sec=0, usec=484099
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 597 @ sec=0, usec=484357
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 598 @ sec=0, usec=484616
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 599 @ sec=0, usec=484865
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 600 @ sec=0, usec=485165
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 60 @ sec=0, usec=485224
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 24 @ sec=0, usec=485233
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 12 @ sec=0, usec=485227
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 601 @ sec=0, usec=485428
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 602 @ sec=0, usec=485666
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 603 @ sec=0, usec=485895
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 604 @ sec=0, usec=486120
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 605 @ sec=0, usec=486345
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 606 @ sec=0, usec=486568
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 607 @ sec=0, usec=486792
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 608 @ sec=0, usec=487016
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 609 @ sec=0, usec=487239
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 610 @ sec=0, usec=487463
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 61 @ sec=0, usec=487490
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 611 @ sec=0, usec=487689
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 612 @ sec=0, usec=487913
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 613 @ sec=0, usec=488146
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 614 @ sec=0, usec=488385
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 615 @ sec=0, usec=488648
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 616 @ sec=0, usec=488911
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 617 @ sec=0, usec=489169
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 618 @ sec=0, usec=489434
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 619 @ sec=0, usec=489686
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 620 @ sec=0, usec=489938
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 62 @ sec=0, usec=490010
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 621 @ sec=0, usec=490213
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 622 @ sec=0, usec=490472
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 623 @ sec=0, usec=490726
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 624 @ sec=0, usec=490972
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 625 @ sec=0, usec=491231
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 25 @ sec=0, usec=491290
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 626 @ sec=0, usec=491493
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 627 @ sec=0, usec=491748
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 628 @ sec=0, usec=492006
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 629 @ sec=0, usec=492256
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 630 @ sec=0, usec=492508
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 63 @ sec=0, usec=492565
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 631 @ sec=0, usec=492772
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 632 @ sec=0, usec=493038
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 633 @ sec=0, usec=493296
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 634 @ sec=0, usec=493549
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 635 @ sec=0, usec=493798
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 636 @ sec=0, usec=494053
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 637 @ sec=0, usec=494324
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 638 @ sec=0, usec=494590
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 639 @ sec=0, usec=494852
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 640 @ sec=0, usec=495108
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 64 @ sec=0, usec=495165
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 641 @ sec=0, usec=495367
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 642 @ sec=0, usec=495618
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 643 @ sec=0, usec=495874
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 644 @ sec=0, usec=496188
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 645 @ sec=0, usec=496446
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 646 @ sec=0, usec=496691
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 647 @ sec=0, usec=497022
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 648 @ sec=0, usec=497279
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 649 @ sec=0, usec=497529
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 650 @ sec=0, usec=497772
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 65 @ sec=0, usec=497815
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 26 @ sec=0, usec=497817
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 13 @ sec=0, usec=497821
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 651 @ sec=0, usec=498025
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 652 @ sec=0, usec=498272
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 653 @ sec=0, usec=498523
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 654 @ sec=0, usec=498805
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 655 @ sec=0, usec=499059
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 656 @ sec=0, usec=499307
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 657 @ sec=0, usec=499544
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 658 @ sec=0, usec=499775
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 659 @ sec=0, usec=500009
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 660 @ sec=0, usec=500247
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 66 @ sec=0, usec=500294
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 661 @ sec=0, usec=500493
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 662 @ sec=0, usec=500741
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 663 @ sec=0, usec=501000
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 664 @ sec=0, usec=501272
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 665 @ sec=0, usec=501542
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 666 @ sec=0, usec=501788
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 667 @ sec=0, usec=502030
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 668 @ sec=0, usec=502270
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 669 @ sec=0, usec=502499
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 670 @ sec=0, usec=502725
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 67 @ sec=0, usec=502754
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 671 @ sec=0, usec=502952
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 672 @ sec=0, usec=503176
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 673 @ sec=0, usec=503400
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 674 @ sec=0, usec=503625
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 675 @ sec=0, usec=503849
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 27 @ sec=0, usec=503886
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 676 @ sec=0, usec=504084
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 677 @ sec=0, usec=504309
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 678 @ sec=0, usec=504540
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 679 @ sec=0, usec=504794
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 680 @ sec=0, usec=505048
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 68 @ sec=0, usec=505167
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 681 @ sec=0, usec=505385
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 682 @ sec=0, usec=505663
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 683 @ sec=0, usec=505931
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 684 @ sec=0, usec=506177
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 685 @ sec=0, usec=506433
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 686 @ sec=0, usec=506691
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 687 @ sec=0, usec=506937
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 688 @ sec=0, usec=507221
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 689 @ sec=0, usec=507485
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 690 @ sec=0, usec=507738
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 69 @ sec=0, usec=507789
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 691 @ sec=0, usec=508001
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 692 @ sec=0, usec=508259
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 693 @ sec=0, usec=508515
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 694 @ sec=0, usec=508774
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 695 @ sec=0, usec=509021
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 696 @ sec=0, usec=509283
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 697 @ sec=0, usec=509561
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 698 @ sec=0, usec=509821
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 699 @ sec=0, usec=510075
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 700 @ sec=0, usec=510327
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 28 @ sec=0, usec=510387
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 14 @ sec=0, usec=510387
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 70 @ sec=0, usec=510398
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 701 @ sec=0, usec=510591
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 702 @ sec=0, usec=510844
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 703 @ sec=0, usec=511105
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 704 @ sec=0, usec=511365
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 705 @ sec=0, usec=511616
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 706 @ sec=0, usec=511854
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 707 @ sec=0, usec=512104
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 708 @ sec=0, usec=512349
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 709 @ sec=0, usec=512591
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 710 @ sec=0, usec=512860
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 71 @ sec=0, usec=512904
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 711 @ sec=0, usec=513107
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 712 @ sec=0, usec=513387
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 713 @ sec=0, usec=513738
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 714 @ sec=0, usec=513991
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 715 @ sec=0, usec=514243
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 716 @ sec=0, usec=514492
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 717 @ sec=0, usec=514741
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 718 @ sec=0, usec=514993
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 719 @ sec=0, usec=515236
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 720 @ sec=0, usec=515491
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 72 @ sec=0, usec=515546
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 721 @ sec=0, usec=515745
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 722 @ sec=0, usec=515986
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 723 @ sec=0, usec=516219
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 724 @ sec=0, usec=516451
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 725 @ sec=0, usec=516686
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 29 @ sec=0, usec=516777
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 726 @ sec=0, usec=516969
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 727 @ sec=0, usec=517210
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 728 @ sec=0, usec=517479
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 729 @ sec=0, usec=517789
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 730 @ sec=0, usec=518157
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 73 @ sec=0, usec=518272
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 731 @ sec=0, usec=518447
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 732 @ sec=0, usec=518730
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 733 @ sec=0, usec=518991
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 734 @ sec=0, usec=519254
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 735 @ sec=0, usec=519492
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 736 @ sec=0, usec=519718
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 737 @ sec=0, usec=519944
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 738 @ sec=0, usec=520169
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 739 @ sec=0, usec=520401
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 740 @ sec=0, usec=520625
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 74 @ sec=0, usec=520653
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 741 @ sec=0, usec=520852
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 742 @ sec=0, usec=521077
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 743 @ sec=0, usec=521311
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 744 @ sec=0, usec=521574
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 745 @ sec=0, usec=521835
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 746 @ sec=0, usec=522112
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 747 @ sec=0, usec=522388
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 748 @ sec=0, usec=522690
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 749 @ sec=0, usec=522987
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 750 @ sec=0, usec=523270
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 75 @ sec=0, usec=523344
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 30 @ sec=0, usec=523351
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 15 @ sec=0, usec=523351
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 751 @ sec=0, usec=523560
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 752 @ sec=0, usec=523814
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 753 @ sec=0, usec=524060
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 754 @ sec=0, usec=524313
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 755 @ sec=0, usec=524560
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 756 @ sec=0, usec=524817
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 757 @ sec=0, usec=525067
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 758 @ sec=0, usec=525324
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 759 @ sec=0, usec=525575
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 760 @ sec=0, usec=525840
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 76 @ sec=0, usec=525899
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 761 @ sec=0, usec=526099
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 762 @ sec=0, usec=526355
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 763 @ sec=0, usec=526610
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 764 @ sec=0, usec=526858
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 765 @ sec=0, usec=527111
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 766 @ sec=0, usec=527364
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 767 @ sec=0, usec=527620
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 768 @ sec=0, usec=527863
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 769 @ sec=0, usec=528100
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 770 @ sec=0, usec=528367
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 77 @ sec=0, usec=528417
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 771 @ sec=0, usec=528618
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 772 @ sec=0, usec=528866
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 773 @ sec=0, usec=529114
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 774 @ sec=0, usec=529366
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 775 @ sec=0, usec=529602
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 31 @ sec=0, usec=529649
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 776 @ sec=0, usec=529854
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 777 @ sec=0, usec=530136
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 778 @ sec=0, usec=530383
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 779 @ sec=0, usec=530693
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 780 @ sec=0, usec=530961
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 78 @ sec=0, usec=531039
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 781 @ sec=0, usec=531278
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 782 @ sec=0, usec=531607
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 783 @ sec=0, usec=531924
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 784 @ sec=0, usec=532196
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 785 @ sec=0, usec=532447
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 786 @ sec=0, usec=532697
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 787 @ sec=0, usec=532930
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 788 @ sec=0, usec=533163
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 789 @ sec=0, usec=533398
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 790 @ sec=0, usec=533642
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 79 @ sec=0, usec=533693
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 791 @ sec=0, usec=533885
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 792 @ sec=0, usec=534137
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 793 @ sec=0, usec=534381
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 794 @ sec=0, usec=534618
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 795 @ sec=0, usec=534852
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 796 @ sec=0, usec=535090
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 797 @ sec=0, usec=535343
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 798 @ sec=0, usec=535579
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 799 @ sec=0, usec=535804
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 800 @ sec=0, usec=536029
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 80 @ sec=0, usec=602591
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 16 @ sec=0, usec=602594
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 32 @ sec=0, usec=602591
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 801 @ sec=0, usec=602801
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 802 @ sec=0, usec=603046
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 803 @ sec=0, usec=603278
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 804 @ sec=0, usec=603507
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 805 @ sec=0, usec=603736
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 806 @ sec=0, usec=603971
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 807 @ sec=0, usec=604200
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 808 @ sec=0, usec=604430
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 809 @ sec=0, usec=604668
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 810 @ sec=0, usec=604929
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 81 @ sec=0, usec=604994
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 811 @ sec=0, usec=605208
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 812 @ sec=0, usec=605502
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 813 @ sec=0, usec=605782
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 814 @ sec=0, usec=606049
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 815 @ sec=0, usec=606305
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 816 @ sec=0, usec=606568
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 817 @ sec=0, usec=606834
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 818 @ sec=0, usec=607078
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 819 @ sec=0, usec=607314
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 820 @ sec=0, usec=607553
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 82 @ sec=0, usec=607605
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 821 @ sec=0, usec=607788
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 822 @ sec=0, usec=608022
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 823 @ sec=0, usec=608268
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 824 @ sec=0, usec=608499
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 825 @ sec=0, usec=608734
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 33 @ sec=0, usec=608775
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 826 @ sec=0, usec=608977
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 827 @ sec=0, usec=609207
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 828 @ sec=0, usec=609440
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 829 @ sec=0, usec=609671
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 830 @ sec=0, usec=609909
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 83 @ sec=0, usec=609941
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 831 @ sec=0, usec=610143
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 832 @ sec=0, usec=610378
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 833 @ sec=0, usec=610607
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 834 @ sec=0, usec=610838
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 835 @ sec=0, usec=611066
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 836 @ sec=0, usec=611301
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 837 @ sec=0, usec=611531
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 838 @ sec=0, usec=611760
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 839 @ sec=0, usec=611991
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 840 @ sec=0, usec=612222
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 84 @ sec=0, usec=612251
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 841 @ sec=0, usec=612454
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 842 @ sec=0, usec=612688
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 843 @ sec=0, usec=612919
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 844 @ sec=0, usec=613153
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 845 @ sec=0, usec=613383
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 846 @ sec=0, usec=613611
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 847 @ sec=0, usec=613839
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 848 @ sec=0, usec=614067
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 849 @ sec=0, usec=614296
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 850 @ sec=0, usec=614525
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 85 @ sec=0, usec=614552
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 34 @ sec=0, usec=614555
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 17 @ sec=0, usec=614560
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 851 @ sec=0, usec=614765
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 852 @ sec=0, usec=614995
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 853 @ sec=0, usec=615225
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 854 @ sec=0, usec=615453
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 855 @ sec=0, usec=615681
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 856 @ sec=0, usec=615910
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 857 @ sec=0, usec=616141
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 858 @ sec=0, usec=616368
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 859 @ sec=0, usec=616596
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 860 @ sec=0, usec=616824
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 86 @ sec=0, usec=616850
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 861 @ sec=0, usec=617058
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 862 @ sec=0, usec=617286
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 863 @ sec=0, usec=617517
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 864 @ sec=0, usec=617748
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 865 @ sec=0, usec=617977
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 866 @ sec=0, usec=618207
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 867 @ sec=0, usec=618442
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 868 @ sec=0, usec=618675
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 869 @ sec=0, usec=618908
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 870 @ sec=0, usec=619137
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 87 @ sec=0, usec=619167
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 871 @ sec=0, usec=619369
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 872 @ sec=0, usec=619598
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 873 @ sec=0, usec=619828
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 874 @ sec=0, usec=620057
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 875 @ sec=0, usec=620288
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 35 @ sec=0, usec=620322
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 876 @ sec=0, usec=620530
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 877 @ sec=0, usec=620761
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 878 @ sec=0, usec=620993
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 879 @ sec=0, usec=621225
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 880 @ sec=0, usec=621455
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 88 @ sec=0, usec=621483
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 881 @ sec=0, usec=621689
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 882 @ sec=0, usec=621919
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 883 @ sec=0, usec=622147
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 884 @ sec=0, usec=622377
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 885 @ sec=0, usec=622604
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 886 @ sec=0, usec=622833
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 887 @ sec=0, usec=623065
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 888 @ sec=0, usec=623297
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 889 @ sec=0, usec=623526
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 890 @ sec=0, usec=623757
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 89 @ sec=0, usec=623785
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 891 @ sec=0, usec=623990
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 892 @ sec=0, usec=624217
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 893 @ sec=0, usec=624446
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 894 @ sec=0, usec=624676
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 895 @ sec=0, usec=624909
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 896 @ sec=0, usec=625137
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 897 @ sec=0, usec=625372
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 898 @ sec=0, usec=625602
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 899 @ sec=0, usec=625834
+Sep  8 09:49:25 raspberrypi hw1Seq: Sequencer cycle 900 @ sec=0, usec=626062
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 1 fib(20) = 17711: release 90 @ sec=0, usec=626090
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 2 fib(40) = 267914296: release 36 @ sec=0, usec=626093
+Sep  8 09:49:25 raspberrypi hw1Seq: Service 3 fib(20) = 17711: release 18 @ sec=0, usec=626097

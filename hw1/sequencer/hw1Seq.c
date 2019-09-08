@@ -112,7 +112,7 @@ void main(void)
     printf("Starting Sequencer Demo\n");
     gettimeofday(&start_time_val, (struct timezone *)0);
     gettimeofday(&current_time_val, (struct timezone *)0);
-    syslog(LOG_CRIT, "Sequencer @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+    syslog(LOG_CRIT, "Sequencer @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
    printf("System has %d processors configured and %d available.\n", get_nprocs_conf(), get_nprocs());
 
@@ -246,7 +246,7 @@ void main(void)
 void *Sequencer(void *threadp)
 {
     struct timeval current_time_val;
-    struct timespec delay_time = {0,33333333}; // delay for 33.33 msec, 30 Hz
+    struct timespec delay_time = {0,200000}; // delay for .2 msec, 5000 Hz
     struct timespec remaining_time;
     double current_time;
     double residual;
@@ -255,15 +255,15 @@ void *Sequencer(void *threadp)
     threadParams_t *threadParams = (threadParams_t *)threadp;
 
     gettimeofday(&current_time_val, (struct timezone *)0);
-    syslog(LOG_CRIT, "Sequencer thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
-    printf("Sequencer thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+    syslog(LOG_CRIT, "Sequencer thread @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
+    printf("Sequencer thread @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
     do
     {
         delay_cnt=0; residual=0.0;
 
         //gettimeofday(&current_time_val, (struct timezone *)0);
-        //syslog(LOG_CRIT, "Sequencer thread prior to delay @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+        //syslog(LOG_CRIT, "Sequencer thread prior to delay @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
         do
         {
             rc=nanosleep(&delay_time, &remaining_time);
@@ -286,7 +286,7 @@ void *Sequencer(void *threadp)
 
         seqCnt++;
         gettimeofday(&current_time_val, (struct timezone *)0);
-        syslog(LOG_CRIT, "Sequencer cycle %llu @ sec=%d, msec=%d\n", seqCnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+        syslog(LOG_CRIT, "Sequencer cycle %llu @ sec=%d, usec=%ld\n", seqCnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
 
         if(delay_cnt > 1) printf("Sequencer looping delay %d\n", delay_cnt);
@@ -324,8 +324,8 @@ void *Service_1(void *threadp)
     threadParams_t *threadParams = (threadParams_t *)threadp;
 
     gettimeofday(&current_time_val, (struct timezone *)0);
-    syslog(LOG_CRIT, "Frame Sampler thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
-    printf("Frame Sampler thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+    syslog(LOG_CRIT, "Service 1 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
+    printf("Service 1 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
     while(!abortS1)
     {
@@ -333,7 +333,7 @@ void *Service_1(void *threadp)
         S1Cnt++;
 
         gettimeofday(&current_time_val, (struct timezone *)0);
-        syslog(LOG_CRIT, "Frame Sampler release %llu @ sec=%d, msec=%d\n", S1Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+        syslog(LOG_CRIT, "Service 1 fib(20) = %d: release %llu @ sec=%d, usec=%ld\n", getFib(20), S1Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
     }
 
     pthread_exit((void *)0);
@@ -348,8 +348,8 @@ void *Service_2(void *threadp)
     threadParams_t *threadParams = (threadParams_t *)threadp;
 
     gettimeofday(&current_time_val, (struct timezone *)0);
-    syslog(LOG_CRIT, "Time-stamp with Image Analysis thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
-    printf("Time-stamp with Image Analysis thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+    syslog(LOG_CRIT, "Service 2 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
+    printf("Service 2 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
     while(!abortS2)
     {
@@ -357,7 +357,7 @@ void *Service_2(void *threadp)
         S2Cnt++;
 
         gettimeofday(&current_time_val, (struct timezone *)0);
-        syslog(LOG_CRIT, "Time-stamp with Image Analysis release %llu @ sec=%d, msec=%d\n", S2Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+        syslog(LOG_CRIT, "Service 2 fib(40) = %d: release %llu @ sec=%d, usec=%ld\n", getFib(40), S2Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
     }
 
     pthread_exit((void *)0);
@@ -371,8 +371,8 @@ void *Service_3(void *threadp)
     threadParams_t *threadParams = (threadParams_t *)threadp;
 
     gettimeofday(&current_time_val, (struct timezone *)0);
-    syslog(LOG_CRIT, "Difference Image Proc thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
-    printf("Difference Image Proc thread @ sec=%d, msec=%d\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+    syslog(LOG_CRIT, "Service 3 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
+    printf("Service 3 @ sec=%d, usec=%ld\n", (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
 
     while(!abortS3)
     {
@@ -380,7 +380,7 @@ void *Service_3(void *threadp)
         S3Cnt++;
 
         gettimeofday(&current_time_val, (struct timezone *)0);
-        syslog(LOG_CRIT, "Difference Image Proc release %llu @ sec=%d, msec=%d\n", S3Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), (int)current_time_val.tv_usec/USEC_PER_MSEC);
+        syslog(LOG_CRIT, "Service 3 fib(20) = %d: release %llu @ sec=%d, usec=%ld\n", getFib(20), S3Cnt, (int)(current_time_val.tv_sec-start_time_val.tv_sec), current_time_val.tv_usec);
     }
 
     pthread_exit((void *)0);
@@ -417,3 +417,17 @@ void print_scheduler(void)
    }
 }
 
+int getFib(int num){
+  int fib = 0;
+  int fib0 = 0;
+  int fib1 = 1;
+  fib = fib0 + fib1; 
+
+  for(int i = 1; i <= num; ++i){
+    fib0 = fib1;
+    fib1 = fib;
+    fib = fib0 + fib1;
+  }
+
+  return fib;
+}
